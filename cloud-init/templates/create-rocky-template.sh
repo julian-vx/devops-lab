@@ -10,7 +10,7 @@ BRIDGE="lab"
 CI_USER="javice"
 TEMPLATE_NAME="rocky10-template"
 IMAGE_NAME="Rocky-10-GenericCloud-Base.latest.x86_64.qcow2"
-IMAGE_URL="https://dl.rockylinux.org/pub/rocky/9/images/x86_64/${IMAGE_NAME}"
+IMAGE_URL="https://dl.rockylinux.org/pub/rocky/10/images/x86_64/${IMAGE_NAME}"
 IMAGE_DIR="/var/lib/vz/template/iso"
 IMAGE_PATH="${IMAGE_DIR}/${IMAGE_NAME}"
 
